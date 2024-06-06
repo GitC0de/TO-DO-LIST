@@ -1,0 +1,14 @@
+.remove {
+    background-color: rgb(205, 1, 1);
+    border: none;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    
+}
+
+.remove:hover {
+    opacity: 70%;
+    cursor: pointer;
+}
+

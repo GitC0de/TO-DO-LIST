@@ -1,0 +1,8 @@
+.calander {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    background-color: rgb(198, 194, 194);
+    height: 50px;
+    margin-bottom: 20px;
+}

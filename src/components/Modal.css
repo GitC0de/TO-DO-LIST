@@ -1,0 +1,51 @@
+.modalInner {
+    background-color: rgb(197, 196, 196);
+    z-index: 999;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    width: 40%;
+
+}
+
+.close:hover {
+    cursor: pointer;
+}
+
+.revise {
+    height: 30px;
+    width: 30px;
+    border: none;
+    border-radius: 30px;
+    background-color: blue;
+}
+
+.revise:hover {
+    cursor: pointer;
+    opacity: 70%;
+}
+
+.reviseForm {
+    display: flex;
+    width: 100%;
+}
+
+.reviseInput {
+    height: 25px;
+    border-radius: 7px;
+    flex-grow: 8;
+}
+
+.reviseDone {
+    height: 30px;
+    width: 35px;
+    background-color: rgb(56, 185, 42);
+    border: none;
+    border-radius: 7px;
+    flex-grow: 1;
+}
+
+.reviseDone:hover {
+    cursor: pointer;
+    opacity: 70%;
+}

@@ -1,0 +1,15 @@
+.scheduleItem {
+    display: flex;
+    margin-bottom: 5px;
+    border-bottom: 2px solid black;
+}
+
+
+.scheduleText {
+    margin-left: 3px;
+    width: 95%;
+}
+
+.Button1, .Button2 {
+    margin-right: 5px;
+}
